@@ -1,4 +1,4 @@
-#include "product.h"
+#include "task_1.h"
 
 size_t GetProductsAmount(std::vector<unsigned int> prices, int amountOfMoney) {
     std::sort(prices.begin(), prices.end());

@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "product.h"
+#include "task_1.h"
 
 TEST(ProductsAmount, BasicGetProductsAmount) {
     std::vector<unsigned int> prices{10, 20, 5, 50};
